@@ -1,2 +1,2 @@
 # restaurant-website
-Site web de restaurant réalisé en HTML, CSS et JavaScript.
+Site web de restaurant réalisé en HTML, CSS.
