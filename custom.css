@@ -1,0 +1,83 @@
+/* =======================================================
+   TP6 - custom.css
+   (NE PAS modifier assets/, uniquement ce fichier)
+   ======================================================= */
+
+
+/* ================= HEADER ================= */
+
+.hero-logo {
+  max-width: 220px;
+}
+
+.hero-title {
+  color: #ffffff;
+  margin-top: 20px;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+
+/* ================= PRESENTATION ================= */
+
+/* Décalage demandé dans l'énoncé : 110px */
+.btn-down-110 {
+  margin-top: 110px;
+}
+
+
+/* ================= MENU ================= */
+
+.menu-note {
+  margin-top: 25px;
+  font-style: italic;
+  opacity: 0.9;
+}
+
+
+/* ================= BRIGADE ================= */
+
+.brigade-img {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+}
+
+.support-title {
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.support-list {
+  list-style: disc;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+
+/* ================= RESERVATION ================= */
+
+.form-dark .form-control {
+  margin-top: 12px;
+}
+
+.pay-box {
+  margin-top: 12px;
+}
+
+.pay-title {
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.pay-box label {
+  margin-right: 12px;
+  font-weight: 400;
+}
+
+.cgu-line {
+  margin-top: 12px;
+  display: inline-block;
+}
